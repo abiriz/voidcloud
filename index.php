@@ -33,7 +33,7 @@ $transactions = json_decode(file_get_contents($dataFile), true);
 </head>
 <body>
       <div class="container">
-  <img src="img/logo-void.jpg">
+  <img src="logo-void.jpg">
   <div style="display:block;"><h2>Web Aplikasi Laporan keuangan</h2><h2> Void Cloud</h2></div> </div>
   <input type="text" id="deskripsi" placeholder="Deskripsi">
   <input type="number" id="jumlah" placeholder="Jumlah (Rp)">
